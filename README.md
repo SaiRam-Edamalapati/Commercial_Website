@@ -228,6 +228,8 @@ document.addEventListener('DOMContentLoaded', () => {
 ```
 
 ## OUTPUT
+<img width="1919" height="832" alt="image" src="https://github.com/user-attachments/assets/f0a37cb3-93a7-4647-b3f9-78018f76467d" />
+
 <img width="1774" height="1028" alt="image" src="https://github.com/user-attachments/assets/ba72f673-d8bd-4c03-b92c-71314fb372a1" />
 
 ## RESULT
