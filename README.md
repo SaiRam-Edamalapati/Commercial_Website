@@ -228,7 +228,7 @@ document.addEventListener('DOMContentLoaded', () => {
 ```
 
 ## OUTPUT
-
+<img width="1774" height="1028" alt="image" src="https://github.com/user-attachments/assets/ba72f673-d8bd-4c03-b92c-71314fb372a1" />
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
